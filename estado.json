@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-09-28T13:48:04.433410+00:00",
+  "actualizado": "2026-09-28T20:32:29.807541+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "706e447d1fbb922f1d6072bb5f3ae6ac388c4230ac65b25e2a72100e362263f5",
-      "titulo": "Lighthouse: Enerside ERE en España",
+      "id": "93d8b450e14ea469e6ff3b2c4676e0db2a19033db85b968c717c714d51f004b5",
+      "titulo": "Lighthouse: Naturhouse Health Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Naturhouse Health Resultados 6m 2026",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "paginas": "6",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 28/09/2026</p><p><strong>Informe:</strong> Naturhouse Health Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "010ad4ffb17c42e0fc56bf61b81138f2ff1c576f31de410e99b6b8e0797f236f",
+      "titulo": "Naturhouse Health: Resultados 6m 2026",
+      "empresa": "Naturhouse Health",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "paginas": "6",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 28/09/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "791f732cb4ab0080c3edc3c201aca1586b82ff875d39b51eca9b88ff49b309ba",
+      "titulo": "Naturhouse Health: Enerside ERE en España",
+      "empresa": "Naturhouse Health",
       "asunto": "Enerside ERE en España",
       "fecha": "21/09/2026",
       "fecha_iso": "2026-09-21T09:00:00+00:00",
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 21/09/2026</p><p><strong>Informe:</strong> Enerside ERE en España</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 21/09/2026</p><p><strong>Informe:</strong> Enerside ERE en España</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "b9b284a2ef670483602fc9ade7093dd2f455588a75877671d3ed3df463414879",
@@ -23,6 +45,17 @@
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Enerside</p><p><strong>Fecha:</strong> 21/09/2026</p><p><strong>Informe:</strong> ERE en España</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "706e447d1fbb922f1d6072bb5f3ae6ac388c4230ac65b25e2a72100e362263f5",
+      "titulo": "Lighthouse: Enerside ERE en España",
+      "empresa": "Lighthouse",
+      "asunto": "Enerside ERE en España",
+      "fecha": "21/09/2026",
+      "fecha_iso": "2026-09-21T09:00:00+00:00",
+      "paginas": "6",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 21/09/2026</p><p><strong>Informe:</strong> Enerside ERE en España</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20260921_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "8e66d5850662708da237dc243190ff8222f38502d9d248703df2d92cdbcbe24a",
@@ -5468,39 +5501,6 @@
       "paginas": "5",
       "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20240515_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 15/05/2024</p><p><strong>Informe:</strong> Audax Renovables Resultados 3m 2024</p><p><strong>Número de páginas:</strong> 5</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20240515_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20240515_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "e82e1ecc7d1974b72ff69e65e118389d43dce926464e3a793e8a129c0721ffbd",
-      "titulo": "Audax Renovables: Resultados 3m 2024",
-      "empresa": "Audax Renovables",
-      "asunto": "Resultados 3m 2024",
-      "fecha": "15/05/2024",
-      "fecha_iso": "2024-05-15T09:00:00+00:00",
-      "paginas": "5",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20240515_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 15/05/2024</p><p><strong>Informe:</strong> Resultados 3m 2024</p><p><strong>Número de páginas:</strong> 5</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20240515_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20240515_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "06c08e8b984d2e0ab8221d3427630c61b56c44594096e9659aad819544bd4c5a",
-      "titulo": "Audax Renovables: Clerhp Estructuras Inicio de cobertura",
-      "empresa": "Audax Renovables",
-      "asunto": "Clerhp Estructuras Inicio de cobertura",
-      "fecha": "14/05/2024",
-      "fecha_iso": "2024-05-14T09:00:00+00:00",
-      "paginas": "34",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/clr_20240514_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 14/05/2024</p><p><strong>Informe:</strong> Clerhp Estructuras Inicio de cobertura</p><p><strong>Número de páginas:</strong> 34</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20240514_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20240514_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "96a6e78ce278c76f8eef835a7fa11b76e0553523eac79b16a80131c1ecf44728",
-      "titulo": "Clerhp Estructuras: Inicio de cobertura",
-      "empresa": "Clerhp Estructuras",
-      "asunto": "Inicio de cobertura",
-      "fecha": "14/05/2024",
-      "fecha_iso": "2024-05-14T09:00:00+00:00",
-      "paginas": "34",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/clr_20240514_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Clerhp Estructuras</p><p><strong>Fecha:</strong> 14/05/2024</p><p><strong>Informe:</strong> Inicio de cobertura</p><p><strong>Número de páginas:</strong> 34</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20240514_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20240514_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
