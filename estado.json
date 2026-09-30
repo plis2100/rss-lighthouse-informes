@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-09-30T05:28:32.243452+00:00",
+  "actualizado": "2026-09-30T12:29:44.209980+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "93d8b450e14ea469e6ff3b2c4676e0db2a19033db85b968c717c714d51f004b5",
-      "titulo": "Lighthouse: Naturhouse Health Resultados 6m 2026",
+      "id": "c74466ba0a64b5a43d68c6cce311894013fb81070955513ffa75df59f380d4a2",
+      "titulo": "Lighthouse: Audax Renovables Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Audax Renovables Resultados 6m 2026",
+      "fecha": "30/09/2026",
+      "fecha_iso": "2026-09-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20260930_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 30/09/2026</p><p><strong>Informe:</strong> Audax Renovables Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20260930_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20260930_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "0b68bdb591b8039a804acbe7a240d3601267521cbbbfa7ef2bb1db0e6a730109",
+      "titulo": "Audax Renovables: Resultados 6m 2026",
+      "empresa": "Audax Renovables",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "30/09/2026",
+      "fecha_iso": "2026-09-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20260930_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 30/09/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20260930_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20260930_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "9500bdc6b19567b174e93f252b83833a57a8d7d938dba447bc1e204191ddfb33",
+      "titulo": "Audax Renovables: Naturhouse Health Resultados 6m 2026",
+      "empresa": "Audax Renovables",
       "asunto": "Naturhouse Health Resultados 6m 2026",
       "fecha": "28/09/2026",
       "fecha_iso": "2026-09-28T09:00:00+00:00",
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 28/09/2026</p><p><strong>Informe:</strong> Naturhouse Health Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 28/09/2026</p><p><strong>Informe:</strong> Naturhouse Health Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "010ad4ffb17c42e0fc56bf61b81138f2ff1c576f31de410e99b6b8e0797f236f",
@@ -23,6 +45,17 @@
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 28/09/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "93d8b450e14ea469e6ff3b2c4676e0db2a19033db85b968c717c714d51f004b5",
+      "titulo": "Lighthouse: Naturhouse Health Resultados 6m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Naturhouse Health Resultados 6m 2026",
+      "fecha": "28/09/2026",
+      "fecha_iso": "2026-09-28T09:00:00+00:00",
+      "paginas": "6",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 28/09/2026</p><p><strong>Informe:</strong> Naturhouse Health Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20260928_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "791f732cb4ab0080c3edc3c201aca1586b82ff875d39b51eca9b88ff49b309ba",
@@ -5468,39 +5501,6 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/ntx_20240527_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Netex</p><p><strong>Fecha:</strong> 27/05/2024</p><p><strong>Informe:</strong> OPA amistosa de BD-Capital</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ntx_20240527_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ntx_20240527_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "87ecb54227a69db5b1304546f23e04106ee23c16c44536bdd1498641b8a927c8",
-      "titulo": "Netex: Laboratorio Reig Jofre Inicio de cobertura",
-      "empresa": "Netex",
-      "asunto": "Laboratorio Reig Jofre Inicio de cobertura",
-      "fecha": "27/05/2024",
-      "fecha_iso": "2024-05-27T09:00:00+00:00",
-      "paginas": "33",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20240527_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Netex</p><p><strong>Fecha:</strong> 27/05/2024</p><p><strong>Informe:</strong> Laboratorio Reig Jofre Inicio de cobertura</p><p><strong>Número de páginas:</strong> 33</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20240527_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20240527_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "2393e5c088f7e2f79f25292835daa1dc4101563c3c399a5b9dc320de05a1d268",
-      "titulo": "Laboratorio Reig Jofre: Inicio de cobertura",
-      "empresa": "Laboratorio Reig Jofre",
-      "asunto": "Inicio de cobertura",
-      "fecha": "27/05/2024",
-      "fecha_iso": "2024-05-27T09:00:00+00:00",
-      "paginas": "33",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20240527_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 27/05/2024</p><p><strong>Informe:</strong> Inicio de cobertura</p><p><strong>Número de páginas:</strong> 33</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20240527_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20240527_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "1104303e9957d67c30f309e44633ea3fde443b4e9b64c51112fda07cec0cf67a",
-      "titulo": "Laboratorio Reig Jofre: Audax Renovables Resultados 3m 2024",
-      "empresa": "Laboratorio Reig Jofre",
-      "asunto": "Audax Renovables Resultados 3m 2024",
-      "fecha": "15/05/2024",
-      "fecha_iso": "2024-05-15T09:00:00+00:00",
-      "paginas": "5",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20240515_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 15/05/2024</p><p><strong>Informe:</strong> Audax Renovables Resultados 3m 2024</p><p><strong>Número de páginas:</strong> 5</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20240515_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20240515_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
