@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-10-05T14:30:18.401654+00:00",
+  "actualizado": "2026-10-06T10:12:32.347680+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "23da006ea60cf5df4762b7eaef11428b55f557039be2b2dc35c5c20c3d8becb9",
-      "titulo": "Lighthouse: Bytetravel Resultados 6m 2026",
+      "id": "3964cec24593135a85e1d0d5246ddb284921af32b731c605d037e4727b9db44e",
+      "titulo": "Lighthouse: Vocento Inicio de cobertura",
       "empresa": "Lighthouse",
+      "asunto": "Vocento Inicio de cobertura",
+      "fecha": "05/10/2026",
+      "fecha_iso": "2026-10-05T09:00:00+00:00",
+      "paginas": "39",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 05/10/2026</p><p><strong>Informe:</strong> Vocento Inicio de cobertura</p><p><strong>Número de páginas:</strong> 39</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "5c780ec0ebff66120d3c75d4c929caef2e8fdc2ed2e1bccde97df1f1d3bf9948",
+      "titulo": "Vocento: Inicio de cobertura",
+      "empresa": "Vocento",
+      "asunto": "Inicio de cobertura",
+      "fecha": "05/10/2026",
+      "fecha_iso": "2026-10-05T09:00:00+00:00",
+      "paginas": "39",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Vocento</p><p><strong>Fecha:</strong> 05/10/2026</p><p><strong>Informe:</strong> Inicio de cobertura</p><p><strong>Número de páginas:</strong> 39</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "a5202c81f47b981ef272b659d929b533285eda0cfe34fbfdaff634d75b70e9d5",
+      "titulo": "Vocento: Bytetravel Resultados 6m 2026",
+      "empresa": "Vocento",
       "asunto": "Bytetravel Resultados 6m 2026",
       "fecha": "01/10/2026",
       "fecha_iso": "2026-10-01T09:00:00+00:00",
       "paginas": "12",
       "url": "https://institutodeanalistas.com/wp-content/uploads/byte_20261001_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 01/10/2026</p><p><strong>Informe:</strong> Bytetravel Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Vocento</p><p><strong>Fecha:</strong> 01/10/2026</p><p><strong>Informe:</strong> Bytetravel Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "a3f9a06b39748c1a9cc6bc645f8d20f39291729e8c0750cdc387de2976bc2ecf",
@@ -23,6 +45,17 @@
       "paginas": "12",
       "url": "https://institutodeanalistas.com/wp-content/uploads/byte_20261001_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Bytetravel</p><p><strong>Fecha:</strong> 01/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "23da006ea60cf5df4762b7eaef11428b55f557039be2b2dc35c5c20c3d8becb9",
+      "titulo": "Lighthouse: Bytetravel Resultados 6m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Bytetravel Resultados 6m 2026",
+      "fecha": "01/10/2026",
+      "fecha_iso": "2026-10-01T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/byte_20261001_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 01/10/2026</p><p><strong>Informe:</strong> Bytetravel Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/byte_20261001_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "979f7c20250c8eb4b9c1f00f6c9de8c43664697c5c2831b544c674cd30e0892b",
@@ -5468,39 +5501,6 @@
       "paginas": "10",
       "url": "https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Ercros</p><p><strong>Fecha:</strong> 28/06/2024</p><p><strong>Informe:</strong> Contra-OPA de Esseco Industrial</p><p><strong>Número de páginas:</strong> 10</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "e99083f508d92acf74be1e986cdd2dfbc876ef015134da6e6374b3df292c0158",
-      "titulo": "Ercros: Netex Éxito previsible OPA de BD-Capital",
-      "empresa": "Ercros",
-      "asunto": "Netex Éxito previsible OPA de BD-Capital",
-      "fecha": "26/06/2024",
-      "fecha_iso": "2024-06-26T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/ntx_20240626_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Ercros</p><p><strong>Fecha:</strong> 26/06/2024</p><p><strong>Informe:</strong> Netex Éxito previsible OPA de BD-Capital</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ntx_20240626_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ntx_20240626_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "a3c404dedfacd30a0c1172f38019c3f2a9ef79c9f3cb2f386c06d0306be4fecd",
-      "titulo": "Netex: Éxito previsible OPA de BD-Capital",
-      "empresa": "Netex",
-      "asunto": "Éxito previsible OPA de BD-Capital",
-      "fecha": "26/06/2024",
-      "fecha_iso": "2024-06-26T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/ntx_20240626_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Netex</p><p><strong>Fecha:</strong> 26/06/2024</p><p><strong>Informe:</strong> Éxito previsible OPA de BD-Capital</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ntx_20240626_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ntx_20240626_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "b61e1de2559d79001f4513aff47450da8e64c1e51bae768f21af786d288ffbc7",
-      "titulo": "Netex: Libertas 7 Visita a compañía",
-      "empresa": "Netex",
-      "asunto": "Libertas 7 Visita a compañía",
-      "fecha": "07/06/2024",
-      "fecha_iso": "2024-06-07T09:00:00+00:00",
-      "paginas": "13",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/lib_20240607_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Netex</p><p><strong>Fecha:</strong> 07/06/2024</p><p><strong>Informe:</strong> Libertas 7 Visita a compañía</p><p><strong>Número de páginas:</strong> 13</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20240607_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20240607_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
