@@ -6,16 +6,32 @@
     <description>Nuevos informes de análisis publicados por Lighthouse.</description>
     <language>es-es</language>
     <generator>GitHub Actions - plis2100</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 16:25:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:54:48 +0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://raw.githubusercontent.com/plis2100/rss-lighthouse-informes/main/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lighthouse: Vocento Inicio de cobertura</title>
+      <title>Lighthouse: Ezentis Inicio de cobertura</title>
+      <link>https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf</link>
+      <guid isPermaLink="false">f1b8aea708bae7139447f90138ea948740a1e0cf787d269ed2634cc27b28afb9</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Lighthouse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 07/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Ezentis Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 40&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Lighthouse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 07/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Ezentis Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 40&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Ezentis: Inicio de cobertura</title>
+      <link>https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf</link>
+      <guid isPermaLink="false">85f0c4c3c0cb9a9333eb95fb28c84f11295022f228f774e505af5e80c07bcf81</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Ezentis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 07/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 40&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Ezentis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 07/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 40&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Ezentis: Vocento Inicio de cobertura</title>
       <link>https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf</link>
-      <guid isPermaLink="false">3964cec24593135a85e1d0d5246ddb284921af32b731c605d037e4727b9db44e</guid>
+      <guid isPermaLink="false">ae985372d9a7f1a3540584b626dba06801f9c986503ec00ff24bd60c99425fbb</guid>
       <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Lighthouse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Vocento Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Lighthouse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Vocento Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Ezentis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Vocento Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Ezentis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Vocento Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Vocento: Inicio de cobertura</title>
@@ -24,6 +40,14 @@
       <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Vocento&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Vocento&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Lighthouse: Vocento Inicio de cobertura</title>
+      <link>https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf</link>
+      <guid isPermaLink="false">3964cec24593135a85e1d0d5246ddb284921af32b731c605d037e4727b9db44e</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Lighthouse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Vocento Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Lighthouse&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Vocento Inicio de cobertura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 39&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/voc_20261005_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Vocento: Bytetravel Resultados 6m 2026</title>
@@ -3984,30 +4008,6 @@
       <pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Natac&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 01/07/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Clerhp Estructuras Revisión de estimaciones: A la baja&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Natac&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 01/07/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Clerhp Estructuras Revisión de estimaciones: A la baja&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Clerhp Estructuras: Revisión de estimaciones: A la baja</title>
-      <link>https://institutodeanalistas.com/wp-content/uploads/clr_20240701_1.pdf</link>
-      <guid isPermaLink="false">d9c328678fe09d84e446290bfb5d40d20c78a3b0a2e281486138c28aa3963637</guid>
-      <pubDate>Mon, 01 Jul 2024 09:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Clerhp Estructuras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 01/07/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Revisión de estimaciones: A la baja&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Clerhp Estructuras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 01/07/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Revisión de estimaciones: A la baja&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/clr_20240701_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Clerhp Estructuras: Ercros Contra-OPA de Esseco Industrial</title>
-      <link>https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf</link>
-      <guid isPermaLink="false">d7f3a878073f43f8efa31abfabb3804cb60d6adb549465a3963d52d70aa0adf0</guid>
-      <pubDate>Fri, 28 Jun 2024 09:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Clerhp Estructuras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 28/06/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Ercros Contra-OPA de Esseco Industrial&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Clerhp Estructuras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 28/06/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Ercros Contra-OPA de Esseco Industrial&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Ercros: Contra-OPA de Esseco Industrial</title>
-      <link>https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf</link>
-      <guid isPermaLink="false">fccb8943e766d1e945fdc2ccc7b1092f69937363769fe6ab18125045fe36eca6</guid>
-      <pubDate>Fri, 28 Jun 2024 09:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Ercros&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 28/06/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Contra-OPA de Esseco Industrial&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Empresa:&lt;/strong&gt; Ercros&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; 28/06/2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Informe:&lt;/strong&gt; Contra-OPA de Esseco Industrial&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número de páginas:&lt;/strong&gt; 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_1.pdf"&gt;PDF en español&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://institutodeanalistas.com/wp-content/uploads/ecr_20240628_2.pdf"&gt;PDF en inglés&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
