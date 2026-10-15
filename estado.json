@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-10-14T19:21:46.238834+00:00",
+  "actualizado": "2026-10-15T18:15:22.517765+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "f1b8aea708bae7139447f90138ea948740a1e0cf787d269ed2634cc27b28afb9",
-      "titulo": "Lighthouse: Ezentis Inicio de cobertura",
+      "id": "5d2229c8789da2dd8aa782f2bd95b3ab85057e8be60b7fff10ec15e5cd75dd26",
+      "titulo": "Lighthouse: Alquiber Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Alquiber Resultados 6m 2026",
+      "fecha": "12/10/2026",
+      "fecha_iso": "2026-10-12T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 12/10/2026</p><p><strong>Informe:</strong> Alquiber Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "db54b5f9a5e5767b200b0d4e00a8c7bf82738b9d59bc02ac4f4c3288d896d01e",
+      "titulo": "Alquiber: Resultados 6m 2026",
+      "empresa": "Alquiber",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "12/10/2026",
+      "fecha_iso": "2026-10-12T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Alquiber</p><p><strong>Fecha:</strong> 12/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "d25c185ac1a0d995175ddfb2b9855dd547f947024c72209675d2cd68ab838248",
+      "titulo": "Alquiber: Ezentis Inicio de cobertura",
+      "empresa": "Alquiber",
       "asunto": "Ezentis Inicio de cobertura",
       "fecha": "07/10/2026",
       "fecha_iso": "2026-10-07T09:00:00+00:00",
       "paginas": "40",
       "url": "https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Ezentis Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Alquiber</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Ezentis Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p>"
     },
     {
       "id": "85f0c4c3c0cb9a9333eb95fb28c84f11295022f228f774e505af5e80c07bcf81",
@@ -23,6 +45,17 @@
       "paginas": "40",
       "url": "https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Ezentis</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p>"
+    },
+    {
+      "id": "f1b8aea708bae7139447f90138ea948740a1e0cf787d269ed2634cc27b28afb9",
+      "titulo": "Lighthouse: Ezentis Inicio de cobertura",
+      "empresa": "Lighthouse",
+      "asunto": "Ezentis Inicio de cobertura",
+      "fecha": "07/10/2026",
+      "fecha_iso": "2026-10-07T09:00:00+00:00",
+      "paginas": "40",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Ezentis Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p>"
     },
     {
       "id": "ae985372d9a7f1a3540584b626dba06801f9c986503ec00ff24bd60c99425fbb",
@@ -5468,39 +5501,6 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/adz_20240719_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Adolfo Domínguez</p><p><strong>Fecha:</strong> 19/07/2024</p><p><strong>Informe:</strong> Resultados 3m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20240719_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20240719_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "0f79957fb1549cd0ba9cd352469bdb232dcd200e30d2e5df0e8aa6cbae73923f",
-      "titulo": "Adolfo Domínguez: Natac Informe de actualización",
-      "empresa": "Adolfo Domínguez",
-      "asunto": "Natac Informe de actualización",
-      "fecha": "10/07/2024",
-      "fecha_iso": "2024-07-10T09:00:00+00:00",
-      "paginas": "31",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nat_20240710_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Adolfo Domínguez</p><p><strong>Fecha:</strong> 10/07/2024</p><p><strong>Informe:</strong> Natac Informe de actualización</p><p><strong>Número de páginas:</strong> 31</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20240710_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20240710_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "538f0328393d89d9dd4741de04deb07b62be39d8181150e669f6d1b1e0c32834",
-      "titulo": "Natac: Informe de actualización",
-      "empresa": "Natac",
-      "asunto": "Informe de actualización",
-      "fecha": "10/07/2024",
-      "fecha_iso": "2024-07-10T09:00:00+00:00",
-      "paginas": "31",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nat_20240710_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Natac</p><p><strong>Fecha:</strong> 10/07/2024</p><p><strong>Informe:</strong> Informe de actualización</p><p><strong>Número de páginas:</strong> 31</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20240710_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20240710_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "605972e3e52ceb4fd0c4fb77e948a71c45c4059a091e043aca52c2706d691334",
-      "titulo": "Natac: Clerhp Estructuras Revisión de estimaciones: A la baja",
-      "empresa": "Natac",
-      "asunto": "Clerhp Estructuras Revisión de estimaciones: A la baja",
-      "fecha": "01/07/2024",
-      "fecha_iso": "2024-07-01T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/clr_20240701_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Natac</p><p><strong>Fecha:</strong> 01/07/2024</p><p><strong>Informe:</strong> Clerhp Estructuras Revisión de estimaciones: A la baja</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20240701_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20240701_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
