@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-10-20T18:27:13.364554+00:00",
+  "actualizado": "2026-10-21T13:44:23.774618+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "5d2229c8789da2dd8aa782f2bd95b3ab85057e8be60b7fff10ec15e5cd75dd26",
-      "titulo": "Lighthouse: Alquiber Resultados 6m 2026",
+      "id": "29d73a4c7226a3251b4212dfcb8454c10a89bda3ad24abd995ba640cd51f4ea8",
+      "titulo": "Lighthouse: Naturhouse Health Revisión de estimaciones",
       "empresa": "Lighthouse",
+      "asunto": "Naturhouse Health Revisión de estimaciones",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 21/10/2026</p><p><strong>Informe:</strong> Naturhouse Health Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "8ff2c852bebe02bd2947931abc930a76e98e3bd9f78207497b3ad3f4a7a6797e",
+      "titulo": "Naturhouse Health: Revisión de estimaciones",
+      "empresa": "Naturhouse Health",
+      "asunto": "Revisión de estimaciones",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 21/10/2026</p><p><strong>Informe:</strong> Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "a3e8c681e49f85bdbdc333e1733add3e35e6cb6fb59ae648cca0791e2ae20181",
+      "titulo": "Naturhouse Health: Alquiber Resultados 6m 2026",
+      "empresa": "Naturhouse Health",
       "asunto": "Alquiber Resultados 6m 2026",
       "fecha": "12/10/2026",
       "fecha_iso": "2026-10-12T09:00:00+00:00",
       "paginas": "12",
       "url": "https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 12/10/2026</p><p><strong>Informe:</strong> Alquiber Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 12/10/2026</p><p><strong>Informe:</strong> Alquiber Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "db54b5f9a5e5767b200b0d4e00a8c7bf82738b9d59bc02ac4f4c3288d896d01e",
@@ -25,6 +47,17 @@
       "descripcion": "<p><strong>Empresa:</strong> Alquiber</p><p><strong>Fecha:</strong> 12/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_2.pdf\">PDF en inglés</a></p>"
     },
     {
+      "id": "5d2229c8789da2dd8aa782f2bd95b3ab85057e8be60b7fff10ec15e5cd75dd26",
+      "titulo": "Lighthouse: Alquiber Resultados 6m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Alquiber Resultados 6m 2026",
+      "fecha": "12/10/2026",
+      "fecha_iso": "2026-10-12T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 12/10/2026</p><p><strong>Informe:</strong> Alquiber Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20261012_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
       "id": "d25c185ac1a0d995175ddfb2b9855dd547f947024c72209675d2cd68ab838248",
       "titulo": "Alquiber: Ezentis Inicio de cobertura",
       "empresa": "Alquiber",
@@ -33,7 +66,7 @@
       "fecha_iso": "2026-10-07T09:00:00+00:00",
       "paginas": "40",
       "url": "https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Alquiber</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Ezentis Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Alquiber</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Ezentis Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "85f0c4c3c0cb9a9333eb95fb28c84f11295022f228f774e505af5e80c07bcf81",
@@ -44,7 +77,7 @@
       "fecha_iso": "2026-10-07T09:00:00+00:00",
       "paginas": "40",
       "url": "https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Ezentis</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Ezentis</p><p><strong>Fecha:</strong> 07/10/2026</p><p><strong>Informe:</strong> Inicio de cobertura</p><p><strong>Número de páginas:</strong> 40</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261007_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "f1b8aea708bae7139447f90138ea948740a1e0cf787d269ed2634cc27b28afb9",
@@ -5468,39 +5501,6 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Libertas 7</p><p><strong>Fecha:</strong> 25/07/2024</p><p><strong>Informe:</strong> Lingotes Especiales Resultados 6m 2024 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "63cb39c343c3c1ed40dbe0d9b8e9aea723ba869c8f92c1ac7ceae1e87a2db467",
-      "titulo": "Lingotes Especiales: Resultados 6m 2024 – Bajamos estimaciones",
-      "empresa": "Lingotes Especiales",
-      "asunto": "Resultados 6m 2024 – Bajamos estimaciones",
-      "fecha": "25/07/2024",
-      "fecha_iso": "2024-07-25T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lingotes Especiales</p><p><strong>Fecha:</strong> 25/07/2024</p><p><strong>Informe:</strong> Resultados 6m 2024 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "b0bb99cd0ceb4c8ee34e4ade6afd5d755e54eb6340ab7a91b9a484eb91c9110c",
-      "titulo": "Lingotes Especiales: Adolfo Domínguez Resultados 3m 2024",
-      "empresa": "Lingotes Especiales",
-      "asunto": "Adolfo Domínguez Resultados 3m 2024",
-      "fecha": "19/07/2024",
-      "fecha_iso": "2024-07-19T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/adz_20240719_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lingotes Especiales</p><p><strong>Fecha:</strong> 19/07/2024</p><p><strong>Informe:</strong> Adolfo Domínguez Resultados 3m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20240719_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20240719_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "f0b36d6afcf33475fbc71aa730755de92dd53ada5866c9c21b5381cb268c854d",
-      "titulo": "Adolfo Domínguez: Resultados 3m 2024",
-      "empresa": "Adolfo Domínguez",
-      "asunto": "Resultados 3m 2024",
-      "fecha": "19/07/2024",
-      "fecha_iso": "2024-07-19T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/adz_20240719_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Adolfo Domínguez</p><p><strong>Fecha:</strong> 19/07/2024</p><p><strong>Informe:</strong> Resultados 3m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20240719_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20240719_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
