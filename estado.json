@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-10-23T13:21:58.217740+00:00",
+  "actualizado": "2026-10-23T18:17:20.463377+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "29d73a4c7226a3251b4212dfcb8454c10a89bda3ad24abd995ba640cd51f4ea8",
-      "titulo": "Lighthouse: Naturhouse Health Revisión de estimaciones",
+      "id": "cc35e0e73bca9c1e161848302fdb8a208d6b1c3ccc6657516375f331ab396dc5",
+      "titulo": "Lighthouse: Ktesios Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Ktesios Resultados 6m 2026",
+      "fecha": "23/10/2026",
+      "fecha_iso": "2026-10-23T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/ykts_20261023_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 23/10/2026</p><p><strong>Informe:</strong> Ktesios Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ykts_20261023_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ykts_20261023_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "a14f8058420f27311c9c2e8680ca3dc831d020116140e66970bd6ea423eea000",
+      "titulo": "Ktesios: Resultados 6m 2026",
+      "empresa": "Ktesios",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "23/10/2026",
+      "fecha_iso": "2026-10-23T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/ykts_20261023_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Ktesios</p><p><strong>Fecha:</strong> 23/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ykts_20261023_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ykts_20261023_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "e5d0bca478d8b5d44771398a7cf1418623d4e03ffa607e249e0eda1c1cafefac",
+      "titulo": "Ktesios: Naturhouse Health Revisión de estimaciones",
+      "empresa": "Ktesios",
       "asunto": "Naturhouse Health Revisión de estimaciones",
       "fecha": "21/10/2026",
       "fecha_iso": "2026-10-21T09:00:00+00:00",
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 21/10/2026</p><p><strong>Informe:</strong> Naturhouse Health Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Ktesios</p><p><strong>Fecha:</strong> 21/10/2026</p><p><strong>Informe:</strong> Naturhouse Health Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "8ff2c852bebe02bd2947931abc930a76e98e3bd9f78207497b3ad3f4a7a6797e",
@@ -23,6 +45,17 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 21/10/2026</p><p><strong>Informe:</strong> Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "29d73a4c7226a3251b4212dfcb8454c10a89bda3ad24abd995ba640cd51f4ea8",
+      "titulo": "Lighthouse: Naturhouse Health Revisión de estimaciones",
+      "empresa": "Lighthouse",
+      "asunto": "Naturhouse Health Revisión de estimaciones",
+      "fecha": "21/10/2026",
+      "fecha_iso": "2026-10-21T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 21/10/2026</p><p><strong>Informe:</strong> Naturhouse Health Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20261021_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "a3e8c681e49f85bdbdc333e1733add3e35e6cb6fb59ae648cca0791e2ae20181",
@@ -5468,39 +5501,6 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/gam_20240726_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> GAM</p><p><strong>Fecha:</strong> 26/07/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/gam_20240726_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/gam_20240726_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "ad9eb67f27023413d0ae51fd90f0248d6c32557eebff9b71dc87192e35dcc950",
-      "titulo": "GAM: Libertas 7 Resultados 6m 2024",
-      "empresa": "GAM",
-      "asunto": "Libertas 7 Resultados 6m 2024",
-      "fecha": "26/07/2024",
-      "fecha_iso": "2024-07-26T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/lib_20240726_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> GAM</p><p><strong>Fecha:</strong> 26/07/2024</p><p><strong>Informe:</strong> Libertas 7 Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20240726_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20240726_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "1efa5f7efe887f5560d691e520609f25681db48cf92c79cdce9f64dd48952a33",
-      "titulo": "Libertas 7: Resultados 6m 2024",
-      "empresa": "Libertas 7",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "26/07/2024",
-      "fecha_iso": "2024-07-26T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/lib_20240726_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Libertas 7</p><p><strong>Fecha:</strong> 26/07/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20240726_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20240726_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "9c44e9087bd9cea24f591186df0fc6100cdbc31c38c65d399da6331f73ec81e2",
-      "titulo": "Libertas 7: Lingotes Especiales Resultados 6m 2024 – Bajamos estimaciones",
-      "empresa": "Libertas 7",
-      "asunto": "Lingotes Especiales Resultados 6m 2024 – Bajamos estimaciones",
-      "fecha": "25/07/2024",
-      "fecha_iso": "2024-07-25T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Libertas 7</p><p><strong>Fecha:</strong> 25/07/2024</p><p><strong>Informe:</strong> Lingotes Especiales Resultados 6m 2024 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lgt_20240725_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
