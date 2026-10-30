@@ -1,17 +1,105 @@
 {
-  "actualizado": "2026-10-30T08:34:26.222744+00:00",
+  "actualizado": "2026-10-30T15:53:30.501745+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "48289d3943c85fd528f6518e650adfcb61e505ec5a7a149d9b5988b16dd5c49d",
-      "titulo": "Lighthouse: EBRO Motors Group EV Resultados 6m 2026",
+      "id": "ebc374891c5713b91d5fcfe0dc9424caf863ff27e4ac2e06aeb87c61954c0dcb",
+      "titulo": "Lighthouse: Desa Resultados 9m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Desa Resultados 9m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Desa Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "3f8077f967f33c1a0ac20c81b96bdfe2f425dd0671f8ca4aeab13357c47d34b7",
+      "titulo": "Desa: Resultados 9m 2026",
+      "empresa": "Desa",
+      "asunto": "Resultados 9m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Desa</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "9074d83c1e70a56303704b464305b9e613d42e97c6b29faad43432ea29bf4c1d",
+      "titulo": "Desa: Natac Resultados 6m 2026",
+      "empresa": "Desa",
+      "asunto": "Natac Resultados 6m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nat_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Desa</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Natac Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "e66271df3bf2cfaa47c2ed43fc87304170d251c569fc8725b560cb854f540473",
+      "titulo": "Natac: Resultados 6m 2026",
+      "empresa": "Natac",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nat_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Natac</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "eb8486019c220c3fd5e8883b3f9e1f97a1b64cb1a6c402ae81412a1be772def5",
+      "titulo": "Natac: Nicolás Correa Revisión de estimaciones",
+      "empresa": "Natac",
+      "asunto": "Nicolás Correa Revisión de estimaciones",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Natac</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Nicolás Correa Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "7518c896abd3117a90fbb2f918dfa7155fc581fe91de745f125e31bf1733397f",
+      "titulo": "Nicolás Correa: Revisión de estimaciones",
+      "empresa": "Nicolás Correa",
+      "asunto": "Revisión de estimaciones",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "91ac7f61590742ce0cfdb7614dc8a518c550847ef93418f925d55af613bc76bf",
+      "titulo": "Nicolás Correa: Endurance Motive Resultados 6m 2026",
+      "empresa": "Nicolás Correa",
+      "asunto": "Endurance Motive Resultados 6m 2026",
+      "fecha": "29/10/2026",
+      "fecha_iso": "2026-10-29T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/end_20261029_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 29/10/2026</p><p><strong>Informe:</strong> Endurance Motive Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/end_20261029_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/end_20261029_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "75b74c109d06277dc9f7e892ba7f31e2db27b6d91d80100ed7e14d7f79cc54be",
+      "titulo": "Endurance Motive: Resultados 6m 2026",
+      "empresa": "Endurance Motive",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "29/10/2026",
+      "fecha_iso": "2026-10-29T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/end_20261029_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Endurance Motive</p><p><strong>Fecha:</strong> 29/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/end_20261029_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/end_20261029_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "a58c52c29f2fb857c90e6a5f25f01afaa858e513e86b3ea0a1e7ca6d2e49d15b",
+      "titulo": "Endurance Motive: EBRO Motors Group EV Resultados 6m 2026",
+      "empresa": "Endurance Motive",
       "asunto": "EBRO Motors Group EV Resultados 6m 2026",
       "fecha": "28/10/2026",
       "fecha_iso": "2026-10-28T09:00:00+00:00",
       "paginas": "7",
       "url": "https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 28/10/2026</p><p><strong>Informe:</strong> EBRO Motors Group EV Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Endurance Motive</p><p><strong>Fecha:</strong> 28/10/2026</p><p><strong>Informe:</strong> EBRO Motors Group EV Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "06825bcb673eb3d0934d49f256a2e2e298aeb3dcfd0f1e600a8617797183a270",
@@ -45,6 +133,17 @@
       "paginas": "7",
       "url": "https://institutodeanalistas.com/wp-content/uploads/yvit_20261028_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Vitruvio</p><p><strong>Fecha:</strong> 28/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/yvit_20261028_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/yvit_20261028_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "48289d3943c85fd528f6518e650adfcb61e505ec5a7a149d9b5988b16dd5c49d",
+      "titulo": "Lighthouse: EBRO Motors Group EV Resultados 6m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "EBRO Motors Group EV Resultados 6m 2026",
+      "fecha": "28/10/2026",
+      "fecha_iso": "2026-10-28T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 28/10/2026</p><p><strong>Informe:</strong> EBRO Motors Group EV Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ebrom_20261028_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "7b312f22bd0dc32bacbd482a93dafef3869bb987fcac37b7d58abba56a4b15d9",
@@ -5402,105 +5501,6 @@
       "paginas": "5",
       "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20240902_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 02/09/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 5</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240902_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240902_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "c2092310f68f9a13d83da83072eef20a199ec1ad35deee51ae2b78acd861b6bf",
-      "titulo": "Nicolás Correa: Kompuestos Resultados 6m 2024",
-      "empresa": "Nicolás Correa",
-      "asunto": "Kompuestos Resultados 6m 2024",
-      "fecha": "28/08/2024",
-      "fecha_iso": "2024-08-28T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/kom_20240828_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 28/08/2024</p><p><strong>Informe:</strong> Kompuestos Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/kom_20240828_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/kom_20240828_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "5f5939d5e700bc345c8e424eccaad9c22ae505583439eeb3c460e7bd887440e2",
-      "titulo": "Kompuestos: Resultados 6m 2024",
-      "empresa": "Kompuestos",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "28/08/2024",
-      "fecha_iso": "2024-08-28T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/kom_20240828_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Kompuestos</p><p><strong>Fecha:</strong> 28/08/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/kom_20240828_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/kom_20240828_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "45ece8a4b03c32df9a959e27fd9f9fc345d7218a5cb23af9d02ea05e6dc307b3",
-      "titulo": "Liwe: 2018 – 2023",
-      "empresa": "Liwe",
-      "asunto": "2018 – 2023",
-      "fecha": "02/08/2024",
-      "fecha_iso": "2024-08-02T09:00:00+00:00",
-      "paginas": "18",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/liw_20240802_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Liwe</p><p><strong>Fecha:</strong> 02/08/2024</p><p><strong>Informe:</strong> 2018 – 2023</p><p><strong>Número de páginas:</strong> 18</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/liw_20240802_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/liw_20240802_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "10a934bb2980007ad2d2d681f669f3e3c295402419ea266c65ca6e29e166e38a",
-      "titulo": "Kompuestos: Pangaea Oncology Ampliación de capital dineraria",
-      "empresa": "Kompuestos",
-      "asunto": "Pangaea Oncology Ampliación de capital dineraria",
-      "fecha": "01/08/2024",
-      "fecha_iso": "2024-08-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20240801_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Kompuestos</p><p><strong>Fecha:</strong> 01/08/2024</p><p><strong>Informe:</strong> Pangaea Oncology Ampliación de capital dineraria</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20240801_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20240801_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "2da20885184e8be3a6020a55b1ee046ecb31bd9bb79258a4e79f1fcd932982f5",
-      "titulo": "Pangaea Oncology: Ampliación de capital dineraria",
-      "empresa": "Pangaea Oncology",
-      "asunto": "Ampliación de capital dineraria",
-      "fecha": "01/08/2024",
-      "fecha_iso": "2024-08-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20240801_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Pangaea Oncology</p><p><strong>Fecha:</strong> 01/08/2024</p><p><strong>Informe:</strong> Ampliación de capital dineraria</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20240801_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20240801_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "3921f058e1b4a2315f35c0961d56ef68c48d96ba9994d8b8030472c805d0a4cd",
-      "titulo": "Pangaea Oncology: Inmobiliaria del Sur Resultados 6m 2024",
-      "empresa": "Pangaea Oncology",
-      "asunto": "Inmobiliaria del Sur Resultados 6m 2024",
-      "fecha": "31/07/2024",
-      "fecha_iso": "2024-07-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/isur_20240731_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Pangaea Oncology</p><p><strong>Fecha:</strong> 31/07/2024</p><p><strong>Informe:</strong> Inmobiliaria del Sur Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20240731_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20240731_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "5e91987d6a4c433957ebf9cd89149578cf4fac05c87bde9b69bafa2e0e4604f6",
-      "titulo": "Inmobiliaria del Sur: Resultados 6m 2024",
-      "empresa": "Inmobiliaria del Sur",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "31/07/2024",
-      "fecha_iso": "2024-07-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/isur_20240731_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Inmobiliaria del Sur</p><p><strong>Fecha:</strong> 31/07/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20240731_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20240731_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "50d965910104ba53ad24f437e1a608bab95adbffdb39838975928c8e26abb8f0",
-      "titulo": "Inmobiliaria del Sur: Amper Resultados 6m 2024",
-      "empresa": "Inmobiliaria del Sur",
-      "asunto": "Amper Resultados 6m 2024",
-      "fecha": "31/07/2024",
-      "fecha_iso": "2024-07-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/amp_20240731_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Inmobiliaria del Sur</p><p><strong>Fecha:</strong> 31/07/2024</p><p><strong>Informe:</strong> Amper Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/amp_20240731_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/amp_20240731_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "ad7523771aad23e5503cc552bc8ecff7b512ca4dff5a209b55a0c8861e5be290",
-      "titulo": "Amper: Resultados 6m 2024",
-      "empresa": "Amper",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "31/07/2024",
-      "fecha_iso": "2024-07-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/amp_20240731_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Amper</p><p><strong>Fecha:</strong> 31/07/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/amp_20240731_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/amp_20240731_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
