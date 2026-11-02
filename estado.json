@@ -1,17 +1,149 @@
 {
-  "actualizado": "2026-10-30T20:44:48.531490+00:00",
+  "actualizado": "2026-11-02T15:41:51.075463+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "ebc374891c5713b91d5fcfe0dc9424caf863ff27e4ac2e06aeb87c61954c0dcb",
-      "titulo": "Lighthouse: Desa Resultados 9m 2026",
+      "id": "e07d2d6cea6884253ea812b59c2f9bd5a2de0662a783febfbed3784092caaccf",
+      "titulo": "Lighthouse: Treelogic Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Treelogic Resultados 6m 2026",
+      "fecha": "02/11/2026",
+      "fecha_iso": "2026-11-02T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Treelogic Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "719ec86133ffd6544badd847e65a42bb864d5c3daf5d4c705b9c8b6eeef54ac2",
+      "titulo": "Treelogic: Resultados 6m 2026",
+      "empresa": "Treelogic",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "02/11/2026",
+      "fecha_iso": "2026-11-02T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Treelogic</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "b1fb14ccbb93e461b9775ad9cf53b9239910a1daaa1d1d3e56b75fa4ac5d5472",
+      "titulo": "Treelogic: Ezentis Resultados 9m 2026",
+      "empresa": "Treelogic",
+      "asunto": "Ezentis Resultados 9m 2026",
+      "fecha": "31/10/2026",
+      "fecha_iso": "2026-10-31T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/eze_20261031_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Treelogic</p><p><strong>Fecha:</strong> 31/10/2026</p><p><strong>Informe:</strong> Ezentis Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261031_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "ec6c2b9986ed8474a17afce635ed24789d468116a9e21d2318b9e146d71c1288",
+      "titulo": "Ezentis: Resultados 9m 2026",
+      "empresa": "Ezentis",
+      "asunto": "Resultados 9m 2026",
+      "fecha": "31/10/2026",
+      "fecha_iso": "2026-10-31T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/eze_20261031_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Ezentis</p><p><strong>Fecha:</strong> 31/10/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eze_20261031_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "736ba0d2cb93a2afddcf18f5dd0194d2e16eb4af89ee25d7d25d9c425facf4e2",
+      "titulo": "Ezentis: Iflex Resultados 6m 2026",
+      "empresa": "Ezentis",
+      "asunto": "Iflex Resultados 6m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/iflex_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Ezentis</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Iflex Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/iflex_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/iflex_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "0a330ba273ba3f6de8734bc4606da7fdd049cbbbf20fd0a57adad0de5989cdc7",
+      "titulo": "Iflex: Resultados 6m 2026",
+      "empresa": "Iflex",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/iflex_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Iflex</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/iflex_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/iflex_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "a035880d559e229b73532a30b5ae7f3808b27ae23c4ae7e6cfd3d8231379a74b",
+      "titulo": "Iflex: Libertas 7 Resultados 9m 2026",
+      "empresa": "Iflex",
+      "asunto": "Libertas 7 Resultados 9m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/lib_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Iflex</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Libertas 7 Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "1bcd0c4d28371198dd4b8fc73e5d7eb8d29672572c958246d2da3d683fcf206b",
+      "titulo": "Libertas 7: Resultados 9m 2026",
+      "empresa": "Libertas 7",
+      "asunto": "Resultados 9m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/lib_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Libertas 7</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/lib_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "29c05f74a9e725f94223ab4d0476ffd1a5e361e518cf649538e41283d3e1a0fd",
+      "titulo": "Libertas 7: Seresco Resultados 6m 2026",
+      "empresa": "Libertas 7",
+      "asunto": "Seresco Resultados 6m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/sco_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Libertas 7</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Seresco Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "667592b3f74ab5b5fa33bd746e53d1949b876ba362b1ad2f7155bfe82df95d00",
+      "titulo": "Seresco: Resultados 6m 2026",
+      "empresa": "Seresco",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/sco_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Seresco</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "31bd5d3d459d4be112d40e39988f9668fcba75ff9fcee97ecdc3175df6c45756",
+      "titulo": "Seresco: Inmobiliaria del Sur Resultados 9m 2026",
+      "empresa": "Seresco",
+      "asunto": "Inmobiliaria del Sur Resultados 9m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/isur_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Seresco</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Inmobiliaria del Sur Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "e7fe361a1d2381ebb94960c8d3abebd1bb397464178f8e5885673ca30946ffac",
+      "titulo": "Inmobiliaria del Sur: Resultados 9m 2026",
+      "empresa": "Inmobiliaria del Sur",
+      "asunto": "Resultados 9m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/isur_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Inmobiliaria del Sur</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "a32f4bace4a5ba9083bce954f0eb24eaa9baafbf4fdf53466b6ff73b2d133050",
+      "titulo": "Inmobiliaria del Sur: Desa Resultados 9m 2026",
+      "empresa": "Inmobiliaria del Sur",
       "asunto": "Desa Resultados 9m 2026",
       "fecha": "30/10/2026",
       "fecha_iso": "2026-10-30T09:00:00+00:00",
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Desa Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Inmobiliaria del Sur</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Desa Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "3f8077f967f33c1a0ac20c81b96bdfe2f425dd0671f8ca4aeab13357c47d34b7",
@@ -67,6 +199,17 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20261030_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Revisión de estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20261030_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "ebc374891c5713b91d5fcfe0dc9424caf863ff27e4ac2e06aeb87c61954c0dcb",
+      "titulo": "Lighthouse: Desa Resultados 9m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Desa Resultados 9m 2026",
+      "fecha": "30/10/2026",
+      "fecha_iso": "2026-10-30T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 30/10/2026</p><p><strong>Informe:</strong> Desa Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20261030_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "91ac7f61590742ce0cfdb7614dc8a518c550847ef93418f925d55af613bc76bf",
@@ -5358,149 +5501,6 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/eco_20241001_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 01/10/2024</p><p><strong>Informe:</strong> Ecolumber Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eco_20241001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eco_20241001_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "5aae574d27c708774ead2148e1de7deb34e93a730337491791d3364e0313a988",
-      "titulo": "Ecolumber: Resultados 6m 2024",
-      "empresa": "Ecolumber",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "01/10/2024",
-      "fecha_iso": "2024-10-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/eco_20241001_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Ecolumber</p><p><strong>Fecha:</strong> 01/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eco_20241001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eco_20241001_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "dbd1b283b251883c70e19820d72dc63ee86e326a4c895e415fbfa5f45beb1b18",
-      "titulo": "Ecolumber: Audax Renovables Resultados 6m 2024",
-      "empresa": "Ecolumber",
-      "asunto": "Audax Renovables Resultados 6m 2024",
-      "fecha": "01/10/2024",
-      "fecha_iso": "2024-10-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20241001_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Ecolumber</p><p><strong>Fecha:</strong> 01/10/2024</p><p><strong>Informe:</strong> Audax Renovables Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20241001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20241001_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "065a1238f2104a4d3ffbafb60352624680a0799c3d2e8d342d51fbfe3ab87c0a",
-      "titulo": "Audax Renovables: Resultados 6m 2024",
-      "empresa": "Audax Renovables",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "01/10/2024",
-      "fecha_iso": "2024-10-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20241001_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 01/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20241001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20241001_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "5f97f6b72636c605f767336baebdd6e697c3d61a221636a8d1b57191a6c3c1ec",
-      "titulo": "Audax Renovables: Energy Solar Tech Resultados 6m 2024",
-      "empresa": "Audax Renovables",
-      "asunto": "Energy Solar Tech Resultados 6m 2024",
-      "fecha": "30/09/2024",
-      "fecha_iso": "2024-09-30T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/etc_20240930_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 30/09/2024</p><p><strong>Informe:</strong> Energy Solar Tech Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/etc_20240930_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/etc_20240930_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "8f17eca243599ab967850cfbb36a5e99dadd0f6d1fa161b54362e27914b88f8b",
-      "titulo": "Energy Solar Tech: Resultados 6m 2024",
-      "empresa": "Energy Solar Tech",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "30/09/2024",
-      "fecha_iso": "2024-09-30T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/etc_20240930_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Energy Solar Tech</p><p><strong>Fecha:</strong> 30/09/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/etc_20240930_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/etc_20240930_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "b22cf5b39172a67e97eabf0807d990d3dfb53aae124b4925eecb071ae8da21e1",
-      "titulo": "Energy Solar Tech: Desa Resultados 6m 2024",
-      "empresa": "Energy Solar Tech",
-      "asunto": "Desa Resultados 6m 2024",
-      "fecha": "19/09/2024",
-      "fecha_iso": "2024-09-19T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/desa_20240919_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Energy Solar Tech</p><p><strong>Fecha:</strong> 19/09/2024</p><p><strong>Informe:</strong> Desa Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20240919_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20240919_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "400b26ec4cf5e00ef404576a6226ae10542b70a6ddf5d19e3d6e6a6c2ed4af46",
-      "titulo": "Desa: Resultados 6m 2024",
-      "empresa": "Desa",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "19/09/2024",
-      "fecha_iso": "2024-09-19T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/desa_20240919_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Desa</p><p><strong>Fecha:</strong> 19/09/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20240919_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/desa_20240919_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "e4be17c4c2a2fec2c22276d65c0ab8293b6d087db01b354661f12c01909b34da",
-      "titulo": "Desa: Nicolás Correa Revisión de estimaciones: Al alza",
-      "empresa": "Desa",
-      "asunto": "Nicolás Correa Revisión de estimaciones: Al alza",
-      "fecha": "06/09/2024",
-      "fecha_iso": "2024-09-06T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20240906_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Desa</p><p><strong>Fecha:</strong> 06/09/2024</p><p><strong>Informe:</strong> Nicolás Correa Revisión de estimaciones: Al alza</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240906_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240906_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "e9066a9711b08c16b69f9d035dc2ef15a4098faed31ba178ea7f5e9817d348e6",
-      "titulo": "Nicolás Correa: Revisión de estimaciones: Al alza",
-      "empresa": "Nicolás Correa",
-      "asunto": "Revisión de estimaciones: Al alza",
-      "fecha": "06/09/2024",
-      "fecha_iso": "2024-09-06T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20240906_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 06/09/2024</p><p><strong>Informe:</strong> Revisión de estimaciones: Al alza</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240906_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240906_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "c2cb24cd6d73c4160d47a25a9a16ce66be4f48380de70fbff87d0438a50d2751",
-      "titulo": "Nicolás Correa: Cevasa Resultados 6m 2024",
-      "empresa": "Nicolás Correa",
-      "asunto": "Cevasa Resultados 6m 2024",
-      "fecha": "05/09/2024",
-      "fecha_iso": "2024-09-05T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/cev_20240905_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 05/09/2024</p><p><strong>Informe:</strong> Cevasa Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20240905_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20240905_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "1f29b963a58cfe2f8e2d0ea2faffb6a55cc2d5751ca5365da9ce26d8a46542d5",
-      "titulo": "Cevasa: Resultados 6m 2024",
-      "empresa": "Cevasa",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "05/09/2024",
-      "fecha_iso": "2024-09-05T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/cev_20240905_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Cevasa</p><p><strong>Fecha:</strong> 05/09/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20240905_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20240905_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "da248c288ad7becb0c8db83be4eae426496e4b6116ec8c30a4471330f82d0b55",
-      "titulo": "Cevasa: Nicolás Correa Resultados 6m 2024",
-      "empresa": "Cevasa",
-      "asunto": "Nicolás Correa Resultados 6m 2024",
-      "fecha": "02/09/2024",
-      "fecha_iso": "2024-09-02T09:00:00+00:00",
-      "paginas": "5",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20240902_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Cevasa</p><p><strong>Fecha:</strong> 02/09/2024</p><p><strong>Informe:</strong> Nicolás Correa Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 5</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240902_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240902_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "f93fe22faedeeca921851ace641a1e8b29ecdfaf1e2d89ac85b26d71419c05a2",
-      "titulo": "Nicolás Correa: Resultados 6m 2024",
-      "empresa": "Nicolás Correa",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "02/09/2024",
-      "fecha_iso": "2024-09-02T09:00:00+00:00",
-      "paginas": "5",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nea_20240902_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Nicolás Correa</p><p><strong>Fecha:</strong> 02/09/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 5</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240902_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nea_20240902_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
