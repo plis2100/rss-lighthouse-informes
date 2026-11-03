@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-11-02T15:41:51.075463+00:00",
+  "actualizado": "2026-11-03T06:42:29.123242+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "e07d2d6cea6884253ea812b59c2f9bd5a2de0662a783febfbed3784092caaccf",
-      "titulo": "Lighthouse: Treelogic Resultados 6m 2026",
+      "id": "63132eaf7b508e624561a19bf762232c04d098927de15aee1db7a65fa0fe3615",
+      "titulo": "Lighthouse: Pangaea Oncology Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Pangaea Oncology Resultados 6m 2026",
+      "fecha": "02/11/2026",
+      "fecha_iso": "2026-11-02T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Pangaea Oncology Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "824e03e9e6d8c831c59b37e715b734928407662023d14043921e40268dddf07c",
+      "titulo": "Pangaea Oncology: Resultados 6m 2026",
+      "empresa": "Pangaea Oncology",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "02/11/2026",
+      "fecha_iso": "2026-11-02T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Pangaea Oncology</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "ef3c1999c2525b2bafd8849cc30e67a06e3b37d5889d0f9f223199864c46e92b",
+      "titulo": "Pangaea Oncology: Treelogic Resultados 6m 2026",
+      "empresa": "Pangaea Oncology",
       "asunto": "Treelogic Resultados 6m 2026",
       "fecha": "02/11/2026",
       "fecha_iso": "2026-11-02T09:00:00+00:00",
       "paginas": "12",
       "url": "https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Treelogic Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Pangaea Oncology</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Treelogic Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "719ec86133ffd6544badd847e65a42bb864d5c3daf5d4c705b9c8b6eeef54ac2",
@@ -23,6 +45,17 @@
       "paginas": "12",
       "url": "https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Treelogic</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "e07d2d6cea6884253ea812b59c2f9bd5a2de0662a783febfbed3784092caaccf",
+      "titulo": "Lighthouse: Treelogic Resultados 6m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Treelogic Resultados 6m 2026",
+      "fecha": "02/11/2026",
+      "fecha_iso": "2026-11-02T09:00:00+00:00",
+      "paginas": "12",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Treelogic Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "b1fb14ccbb93e461b9775ad9cf53b9239910a1daaa1d1d3e56b75fa4ac5d5472",
@@ -5468,39 +5501,6 @@
       "paginas": "12",
       "url": "https://institutodeanalistas.com/wp-content/uploads/nat_20241002_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Natac</p><p><strong>Fecha:</strong> 02/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20241002_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20241002_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "e88b9e6ce1fa3d06cd8ae03efed7d4c06917f23198b9dd48b0e70d2647aaae80",
-      "titulo": "Natac: Naturhouse Health Resultados 6m 2024",
-      "empresa": "Natac",
-      "asunto": "Naturhouse Health Resultados 6m 2024",
-      "fecha": "01/10/2024",
-      "fecha_iso": "2024-10-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20241001_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Natac</p><p><strong>Fecha:</strong> 01/10/2024</p><p><strong>Informe:</strong> Naturhouse Health Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20241001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20241001_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "42ccd4606a0cabd1c43351acf86ea21f54996ff727916e84d6ddc60272830933",
-      "titulo": "Naturhouse Health: Resultados 6m 2024",
-      "empresa": "Naturhouse Health",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "01/10/2024",
-      "fecha_iso": "2024-10-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nth_20241001_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 01/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20241001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nth_20241001_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "0aee0f4e6880a19c275e38faf0cb684478a3f433089af3fc0e5c7cb3a9889e0a",
-      "titulo": "Naturhouse Health: Ecolumber Resultados 6m 2024",
-      "empresa": "Naturhouse Health",
-      "asunto": "Ecolumber Resultados 6m 2024",
-      "fecha": "01/10/2024",
-      "fecha_iso": "2024-10-01T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/eco_20241001_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Naturhouse Health</p><p><strong>Fecha:</strong> 01/10/2024</p><p><strong>Informe:</strong> Ecolumber Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eco_20241001_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/eco_20241001_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
