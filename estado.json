@@ -1,17 +1,149 @@
 {
-  "actualizado": "2026-11-04T17:11:10.428307+00:00",
+  "actualizado": "2026-11-05T12:15:48.673603+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "63132eaf7b508e624561a19bf762232c04d098927de15aee1db7a65fa0fe3615",
-      "titulo": "Lighthouse: Pangaea Oncology Resultados 6m 2026",
+      "id": "7beb3a598700730f1f170edbb757336b973dc5a7dab0f6b379756457b790716d",
+      "titulo": "Lighthouse: Vanadi Coffee Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Vanadi Coffee Resultados 6m 2026",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/vana_20261104_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 04/11/2026</p><p><strong>Informe:</strong> Vanadi Coffee Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20261104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20261104_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "14b827a33a63f853d3b7a32426e0bef8d89cc5689cc80094ce8ccbb1f4d83007",
+      "titulo": "Vanadi Coffee: Resultados 6m 2026",
+      "empresa": "Vanadi Coffee",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/vana_20261104_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Vanadi Coffee</p><p><strong>Fecha:</strong> 04/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20261104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20261104_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "e3cf2a92fe7ab11c213bab4910e8a06103092840c8436ecdf6afee19aab55099",
+      "titulo": "Vanadi Coffee: LLYC Resultados 6m 2026",
+      "empresa": "Vanadi Coffee",
+      "asunto": "LLYC Resultados 6m 2026",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/llyc_20261104_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Vanadi Coffee</p><p><strong>Fecha:</strong> 04/11/2026</p><p><strong>Informe:</strong> LLYC Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20261104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20261104_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "dd6d6ba2da1f4486c5081226a062f76752584946a7758874a08b6779550a80b0",
+      "titulo": "LLYC: Resultados 6m 2026",
+      "empresa": "LLYC",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/llyc_20261104_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> LLYC</p><p><strong>Fecha:</strong> 04/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20261104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20261104_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "f1e93deaf2eecb57bfa716a698aac31b55dcc706313428c75a69857cda27e32f",
+      "titulo": "LLYC: Facephi Resultados 6m 2026",
+      "empresa": "LLYC",
+      "asunto": "Facephi Resultados 6m 2026",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/face_20261104_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> LLYC</p><p><strong>Fecha:</strong> 04/11/2026</p><p><strong>Informe:</strong> Facephi Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20261104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20261104_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "e835a1c08d5fadf36f456cf378161285826df0eacee015a2bdb2599802e9c3b2",
+      "titulo": "Facephi: Resultados 6m 2026",
+      "empresa": "Facephi",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "04/11/2026",
+      "fecha_iso": "2026-11-04T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/face_20261104_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Facephi</p><p><strong>Fecha:</strong> 04/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20261104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20261104_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "f8dafa9fea533b871e63e67dec3d0382276450b4d3715a41c62e2e3760e8ccc9",
+      "titulo": "Facephi: Redegal Resultados 6m 2026",
+      "empresa": "Facephi",
+      "asunto": "Redegal Resultados 6m 2026",
+      "fecha": "03/11/2026",
+      "fecha_iso": "2026-11-03T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/rdg_20261103_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Facephi</p><p><strong>Fecha:</strong> 03/11/2026</p><p><strong>Informe:</strong> Redegal Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rdg_20261103_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rdg_20261103_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "cfb750649367fcfffc260cd0d98332952fbee5d8e0e486f57ef85d1ccb03a043",
+      "titulo": "Redegal: Resultados 6m 2026",
+      "empresa": "Redegal",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "03/11/2026",
+      "fecha_iso": "2026-11-03T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/rdg_20261103_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Redegal</p><p><strong>Fecha:</strong> 03/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rdg_20261103_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rdg_20261103_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "6d1266cb8b4227c5f4d4e7e8c5abf2fcd073a5e997be5480e83d74d88a25087d",
+      "titulo": "Redegal: Clerhp Estructuras Resultados 6m 2026",
+      "empresa": "Redegal",
+      "asunto": "Clerhp Estructuras Resultados 6m 2026",
+      "fecha": "03/11/2026",
+      "fecha_iso": "2026-11-03T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/clr_20261103_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Redegal</p><p><strong>Fecha:</strong> 03/11/2026</p><p><strong>Informe:</strong> Clerhp Estructuras Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20261103_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20261103_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "59f2954a15a1eedfcca81ba924f5620dfc847fe44e3eea4a471e90f7763bcc42",
+      "titulo": "Clerhp Estructuras: Resultados 6m 2026",
+      "empresa": "Clerhp Estructuras",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "03/11/2026",
+      "fecha_iso": "2026-11-03T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/clr_20261103_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Clerhp Estructuras</p><p><strong>Fecha:</strong> 03/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20261103_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20261103_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "165d090467be971b3f9d144cee3601e2283732c0801e2e0c038ba1a6ed0acced",
+      "titulo": "Clerhp Estructuras: Axon Partners Group Resultados 6m 2026",
+      "empresa": "Clerhp Estructuras",
+      "asunto": "Axon Partners Group Resultados 6m 2026",
+      "fecha": "03/11/2026",
+      "fecha_iso": "2026-11-03T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/apg_20261103_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Clerhp Estructuras</p><p><strong>Fecha:</strong> 03/11/2026</p><p><strong>Informe:</strong> Axon Partners Group Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/apg_20261103_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/apg_20261103_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "0c9d23fa4140b576e72e08aa925af5cd68dec27b79c1b501f21e2c396b971327",
+      "titulo": "Axon Partners Group: Resultados 6m 2026",
+      "empresa": "Axon Partners Group",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "03/11/2026",
+      "fecha_iso": "2026-11-03T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/apg_20261103_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Axon Partners Group</p><p><strong>Fecha:</strong> 03/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/apg_20261103_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/apg_20261103_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "7fac4a2a7dd31ba4c2b6a697a21e86e147b3dbf20b41d19256de038b3c28891e",
+      "titulo": "Axon Partners Group: Pangaea Oncology Resultados 6m 2026",
+      "empresa": "Axon Partners Group",
       "asunto": "Pangaea Oncology Resultados 6m 2026",
       "fecha": "02/11/2026",
       "fecha_iso": "2026-11-02T09:00:00+00:00",
       "paginas": "7",
       "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Pangaea Oncology Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Axon Partners Group</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Pangaea Oncology Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "824e03e9e6d8c831c59b37e715b734928407662023d14043921e40268dddf07c",
@@ -45,6 +177,17 @@
       "paginas": "12",
       "url": "https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Treelogic</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/trtk_20261102_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "63132eaf7b508e624561a19bf762232c04d098927de15aee1db7a65fa0fe3615",
+      "titulo": "Lighthouse: Pangaea Oncology Resultados 6m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Pangaea Oncology Resultados 6m 2026",
+      "fecha": "02/11/2026",
+      "fecha_iso": "2026-11-02T09:00:00+00:00",
+      "paginas": "7",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 02/11/2026</p><p><strong>Informe:</strong> Pangaea Oncology Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 7</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20261102_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "e07d2d6cea6884253ea812b59c2f9bd5a2de0662a783febfbed3784092caaccf",
@@ -5358,149 +5501,6 @@
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/enrs_20241029_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Iflex</p><p><strong>Fecha:</strong> 29/10/2024</p><p><strong>Informe:</strong> Enerside Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20241029_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20241029_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "d108bd950751b8e4c37887ffddbac6212e2f10e1a61770f9c26aa81046126592",
-      "titulo": "Enerside: Resultados 6m 2024",
-      "empresa": "Enerside",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "29/10/2024",
-      "fecha_iso": "2024-10-29T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/enrs_20241029_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Enerside</p><p><strong>Fecha:</strong> 29/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20241029_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/enrs_20241029_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "7311ddd64ee941ef5a39f4e27fe250b673269d2ec1066ca415399b1853eaacf2",
-      "titulo": "Enerside: Vitruvio Resultados 6m 2024",
-      "empresa": "Enerside",
-      "asunto": "Vitruvio Resultados 6m 2024",
-      "fecha": "25/10/2024",
-      "fecha_iso": "2024-10-25T09:00:00+00:00",
-      "paginas": "13",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/yvit_20241025_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Enerside</p><p><strong>Fecha:</strong> 25/10/2024</p><p><strong>Informe:</strong> Vitruvio Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 13</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/yvit_20241025_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/yvit_20241025_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "22af02e1ccc673893adb3d1c88f08f2be80653a8bf474ada3438d29a918c6976",
-      "titulo": "Vitruvio: Resultados 6m 2024",
-      "empresa": "Vitruvio",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "25/10/2024",
-      "fecha_iso": "2024-10-25T09:00:00+00:00",
-      "paginas": "13",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/yvit_20241025_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Vitruvio</p><p><strong>Fecha:</strong> 25/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 13</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/yvit_20241025_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/yvit_20241025_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "0a57e1a0ed3d5d67930949d9cfcefb3032a76cb6d146e537cd6be564028eb222",
-      "titulo": "Vitruvio: Facephi Resultados 6m 2024",
-      "empresa": "Vitruvio",
-      "asunto": "Facephi Resultados 6m 2024",
-      "fecha": "23/10/2024",
-      "fecha_iso": "2024-10-23T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/face_20241023_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Vitruvio</p><p><strong>Fecha:</strong> 23/10/2024</p><p><strong>Informe:</strong> Facephi Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20241023_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20241023_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "43b52fb7108cec6396238333fdb7a6198caaed5979d0d5c94ff12968000de3d1",
-      "titulo": "Facephi: Resultados 6m 2024",
-      "empresa": "Facephi",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "23/10/2024",
-      "fecha_iso": "2024-10-23T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/face_20241023_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Facephi</p><p><strong>Fecha:</strong> 23/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20241023_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/face_20241023_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "34915f9b85670edbc679930586a308353d9ae4bbb9ef716c2c1f7ce37032e314",
-      "titulo": "Facephi: Alquiber Resultados 6m 2024",
-      "empresa": "Facephi",
-      "asunto": "Alquiber Resultados 6m 2024",
-      "fecha": "18/10/2024",
-      "fecha_iso": "2024-10-18T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/alq_20241018_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Facephi</p><p><strong>Fecha:</strong> 18/10/2024</p><p><strong>Informe:</strong> Alquiber Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20241018_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20241018_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "ab0b3423b48f62020c2d3ca52f64d48371ca56955a05ee7688dc41d56727eca6",
-      "titulo": "Alquiber: Resultados 6m 2024",
-      "empresa": "Alquiber",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "18/10/2024",
-      "fecha_iso": "2024-10-18T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/alq_20241018_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Alquiber</p><p><strong>Fecha:</strong> 18/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20241018_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/alq_20241018_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "6ede6240c7e3cb33b58b235de7b755c53996791ec020ad78de5c41e77400cfe3",
-      "titulo": "Alquiber: Cuatroochenta Resultados 6m 2024",
-      "empresa": "Alquiber",
-      "asunto": "Cuatroochenta Resultados 6m 2024",
-      "fecha": "03/10/2024",
-      "fecha_iso": "2024-10-03T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/480s_20241003_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Alquiber</p><p><strong>Fecha:</strong> 03/10/2024</p><p><strong>Informe:</strong> Cuatroochenta Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/480s_20241003_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/480s_20241003_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "585601100839fa77ba565a75eb1462d607a051be4074efdc68c242c9cc9fa931",
-      "titulo": "Cuatroochenta: Resultados 6m 2024",
-      "empresa": "Cuatroochenta",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "03/10/2024",
-      "fecha_iso": "2024-10-03T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/480s_20241003_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Cuatroochenta</p><p><strong>Fecha:</strong> 03/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/480s_20241003_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/480s_20241003_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "6776ea74a91f16ace96d2178774a7fc74bec84315f31920c407073c2b45d0d09",
-      "titulo": "Cuatroochenta: LLYC Resultados 6m 2024",
-      "empresa": "Cuatroochenta",
-      "asunto": "LLYC Resultados 6m 2024",
-      "fecha": "02/10/2024",
-      "fecha_iso": "2024-10-02T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/llyc_20241002_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Cuatroochenta</p><p><strong>Fecha:</strong> 02/10/2024</p><p><strong>Informe:</strong> LLYC Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20241002_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20241002_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "e323c13b0c546f4070c4745dde89ce77b6672bb4ce3ee261f5889ea0bd7a1f00",
-      "titulo": "LLYC: Resultados 6m 2024",
-      "empresa": "LLYC",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "02/10/2024",
-      "fecha_iso": "2024-10-02T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/llyc_20241002_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> LLYC</p><p><strong>Fecha:</strong> 02/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20241002_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/llyc_20241002_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "0971b69f8fecf89b2be8ee61c322a9e43af6da14c41ef97eef8e8dcab548c02d",
-      "titulo": "LLYC: Natac Resultados 6m 2024",
-      "empresa": "LLYC",
-      "asunto": "Natac Resultados 6m 2024",
-      "fecha": "02/10/2024",
-      "fecha_iso": "2024-10-02T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nat_20241002_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> LLYC</p><p><strong>Fecha:</strong> 02/10/2024</p><p><strong>Informe:</strong> Natac Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20241002_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20241002_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "6ff3b190a4debf27aac8197260cb84408cd1fd9ad5ee238b58d22759757638db",
-      "titulo": "Natac: Resultados 6m 2024",
-      "empresa": "Natac",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "02/10/2024",
-      "fecha_iso": "2024-10-02T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/nat_20241002_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Natac</p><p><strong>Fecha:</strong> 02/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20241002_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/nat_20241002_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
