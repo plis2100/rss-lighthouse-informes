@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-11-11T14:12:53.705055+00:00",
+  "actualizado": "2026-11-11T21:54:09.309098+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "a50488fa90a930dc6e696d8fda2b633f1d7aafbbc63ea1fbae55acf38e7d3aae",
-      "titulo": "Lighthouse: Cevasa Resultados 9m 2026",
+      "id": "8992f115b185d34d3d07ae310265b052f426ebf4fa56b3e37dc268ac42a322ba",
+      "titulo": "Lighthouse: Vocento Resultados 9m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Vocento Resultados 9m 2026",
+      "fecha": "11/11/2026",
+      "fecha_iso": "2026-11-11T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 11/11/2026</p><p><strong>Informe:</strong> Vocento Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "98d94db0094e5407f0e3d22253cd27bd7c74104c5215f87414f06fdfee3b3a66",
+      "titulo": "Vocento: Resultados 9m 2026",
+      "empresa": "Vocento",
+      "asunto": "Resultados 9m 2026",
+      "fecha": "11/11/2026",
+      "fecha_iso": "2026-11-11T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Vocento</p><p><strong>Fecha:</strong> 11/11/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "aeae1e15501009cd1b9bdc7a5a9049e666c855e76913a7ac338d3589544c70e6",
+      "titulo": "Vocento: Cevasa Resultados 9m 2026",
+      "empresa": "Vocento",
       "asunto": "Cevasa Resultados 9m 2026",
       "fecha": "06/11/2026",
       "fecha_iso": "2026-11-06T09:00:00+00:00",
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/cev_20261106_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 06/11/2026</p><p><strong>Informe:</strong> Cevasa Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20261106_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20261106_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Vocento</p><p><strong>Fecha:</strong> 06/11/2026</p><p><strong>Informe:</strong> Cevasa Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20261106_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20261106_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "96dcb555174d9bf41442ba878e995006a15a0055b6ad55e334a2ccaf9b15cbfc",
@@ -45,6 +67,17 @@
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/ole_20261106_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Deoleo</p><p><strong>Fecha:</strong> 06/11/2026</p><p><strong>Informe:</strong> Venta de Holding</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ole_20261106_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/ole_20261106_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "a50488fa90a930dc6e696d8fda2b633f1d7aafbbc63ea1fbae55acf38e7d3aae",
+      "titulo": "Lighthouse: Cevasa Resultados 9m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Cevasa Resultados 9m 2026",
+      "fecha": "06/11/2026",
+      "fecha_iso": "2026-11-06T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/cev_20261106_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 06/11/2026</p><p><strong>Informe:</strong> Cevasa Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20261106_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/cev_20261106_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "99aaec0a4c29cd5a130178074aedcc44be8f08ae6ba4472a5df20f32aef3426a",
@@ -5468,39 +5501,6 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/isur_20241031_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Seresco</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Inmobiliaria del Sur Resultados 9m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20241031_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "7bf216a915da8c6e2fa7e0d86afcea39b92acf1705b46910510e6fd8b9289ae3",
-      "titulo": "Inmobiliaria del Sur: Resultados 9m 2024",
-      "empresa": "Inmobiliaria del Sur",
-      "asunto": "Resultados 9m 2024",
-      "fecha": "31/10/2024",
-      "fecha_iso": "2024-10-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/isur_20241031_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Inmobiliaria del Sur</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Resultados 9m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20241031_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "930d7a7e54efb44869086e227fc0ffd720d5ca05e91d9f2c7757edaee1c99744",
-      "titulo": "Inmobiliaria del Sur: Agile Content Resultados 6m 2024",
-      "empresa": "Inmobiliaria del Sur",
-      "asunto": "Agile Content Resultados 6m 2024",
-      "fecha": "30/10/2024",
-      "fecha_iso": "2024-10-30T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/agil_20241030_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Inmobiliaria del Sur</p><p><strong>Fecha:</strong> 30/10/2024</p><p><strong>Informe:</strong> Agile Content Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/agil_20241030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/agil_20241030_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "46369670429bd2a82ffe98eadd98b34ac9e6aadc01bc82c258a8810f9b4274a7",
-      "titulo": "Agile Content: Resultados 6m 2024",
-      "empresa": "Agile Content",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "30/10/2024",
-      "fecha_iso": "2024-10-30T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/agil_20241030_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Agile Content</p><p><strong>Fecha:</strong> 30/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/agil_20241030_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/agil_20241030_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
