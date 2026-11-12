@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-11-12T10:58:57.229327+00:00",
+  "actualizado": "2026-11-12T18:52:34.791324+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "8992f115b185d34d3d07ae310265b052f426ebf4fa56b3e37dc268ac42a322ba",
-      "titulo": "Lighthouse: Vocento Resultados 9m 2026",
+      "id": "7c059943a3e6b88cbc26b840186f824562b05307aa9913e9d6f04c66f92d4007",
+      "titulo": "Lighthouse: Audax Renovables Resultados 9m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Audax Renovables Resultados 9m 2026",
+      "fecha": "12/11/2026",
+      "fecha_iso": "2026-11-12T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 12/11/2026</p><p><strong>Informe:</strong> Audax Renovables Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "9dfcc5362e9ccecfd355f3bda9ea33e1c51d38216aedf222f62e7a56d7900746",
+      "titulo": "Audax Renovables: Resultados 9m 2026",
+      "empresa": "Audax Renovables",
+      "asunto": "Resultados 9m 2026",
+      "fecha": "12/11/2026",
+      "fecha_iso": "2026-11-12T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 12/11/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "2574209f60ac090e3a43810879438c0eddcade2a856ca876659cee6cf20488c3",
+      "titulo": "Audax Renovables: Vocento Resultados 9m 2026",
+      "empresa": "Audax Renovables",
       "asunto": "Vocento Resultados 9m 2026",
       "fecha": "11/11/2026",
       "fecha_iso": "2026-11-11T09:00:00+00:00",
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 11/11/2026</p><p><strong>Informe:</strong> Vocento Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 11/11/2026</p><p><strong>Informe:</strong> Vocento Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "98d94db0094e5407f0e3d22253cd27bd7c74104c5215f87414f06fdfee3b3a66",
@@ -23,6 +45,17 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Vocento</p><p><strong>Fecha:</strong> 11/11/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "8992f115b185d34d3d07ae310265b052f426ebf4fa56b3e37dc268ac42a322ba",
+      "titulo": "Lighthouse: Vocento Resultados 9m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Vocento Resultados 9m 2026",
+      "fecha": "11/11/2026",
+      "fecha_iso": "2026-11-11T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 11/11/2026</p><p><strong>Informe:</strong> Vocento Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/voc_20261111_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "aeae1e15501009cd1b9bdc7a5a9049e666c855e76913a7ac338d3589544c70e6",
@@ -5468,39 +5501,6 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Resultados 9m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "d2f9954afa1618f4b62f056da43ed3d642bebec52b5637093106ed5b548ff74a",
-      "titulo": "Laboratorio Reig Jofre: Seresco Resultados 6m 2024",
-      "empresa": "Laboratorio Reig Jofre",
-      "asunto": "Seresco Resultados 6m 2024",
-      "fecha": "31/10/2024",
-      "fecha_iso": "2024-10-31T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/sco_20241031_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Seresco Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20241031_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "ac17355560b73d47c5e01b9797a0ca34c535bfad0e297bd1532acdd759edc745",
-      "titulo": "Seresco: Resultados 6m 2024",
-      "empresa": "Seresco",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "31/10/2024",
-      "fecha_iso": "2024-10-31T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/sco_20241031_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Seresco</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sco_20241031_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "0e17e9d463a974d375b948cef053d4632e1ddcfcf1d98435c17ffa84a549716f",
-      "titulo": "Seresco: Inmobiliaria del Sur Resultados 9m 2024",
-      "empresa": "Seresco",
-      "asunto": "Inmobiliaria del Sur Resultados 9m 2024",
-      "fecha": "31/10/2024",
-      "fecha_iso": "2024-10-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/isur_20241031_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Seresco</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Inmobiliaria del Sur Resultados 9m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/isur_20241031_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
