@@ -1,17 +1,39 @@
 {
-  "actualizado": "2026-11-17T09:10:32.183896+00:00",
+  "actualizado": "2026-11-17T18:34:58.170036+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "7c059943a3e6b88cbc26b840186f824562b05307aa9913e9d6f04c66f92d4007",
-      "titulo": "Lighthouse: Audax Renovables Resultados 9m 2026",
+      "id": "624f7a1e37305cfa2d8650aba825029a4532a5e03f741aca7d9e65a4ec69c61d",
+      "titulo": "Lighthouse: Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones",
       "empresa": "Lighthouse",
+      "asunto": "Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones",
+      "fecha": "17/11/2026",
+      "fecha_iso": "2026-11-17T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 17/11/2026</p><p><strong>Informe:</strong> Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "7164bddd99ad1467663037eb98d30e6416c8d14e3d91b57677be343331cdde16",
+      "titulo": "Laboratorio Reig Jofre: Resultados 9m 2026 – Bajamos estimaciones",
+      "empresa": "Laboratorio Reig Jofre",
+      "asunto": "Resultados 9m 2026 – Bajamos estimaciones",
+      "fecha": "17/11/2026",
+      "fecha_iso": "2026-11-17T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 17/11/2026</p><p><strong>Informe:</strong> Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "5369c6a1143463952101c1367988d5df1a7df901d9b20c07e3da4f962f83991a",
+      "titulo": "Laboratorio Reig Jofre: Audax Renovables Resultados 9m 2026",
+      "empresa": "Laboratorio Reig Jofre",
       "asunto": "Audax Renovables Resultados 9m 2026",
       "fecha": "12/11/2026",
       "fecha_iso": "2026-11-12T09:00:00+00:00",
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 12/11/2026</p><p><strong>Informe:</strong> Audax Renovables Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 12/11/2026</p><p><strong>Informe:</strong> Audax Renovables Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "9dfcc5362e9ccecfd355f3bda9ea33e1c51d38216aedf222f62e7a56d7900746",
@@ -23,6 +45,17 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Audax Renovables</p><p><strong>Fecha:</strong> 12/11/2026</p><p><strong>Informe:</strong> Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "7c059943a3e6b88cbc26b840186f824562b05307aa9913e9d6f04c66f92d4007",
+      "titulo": "Lighthouse: Audax Renovables Resultados 9m 2026",
+      "empresa": "Lighthouse",
+      "asunto": "Audax Renovables Resultados 9m 2026",
+      "fecha": "12/11/2026",
+      "fecha_iso": "2026-11-12T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 12/11/2026</p><p><strong>Informe:</strong> Audax Renovables Resultados 9m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adx_20261112_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "2574209f60ac090e3a43810879438c0eddcade2a856ca876659cee6cf20488c3",
@@ -5468,39 +5501,6 @@
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/sai_20241104_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Pangaea Oncology</p><p><strong>Fecha:</strong> 04/11/2024</p><p><strong>Informe:</strong> Substrate Artificial Intelligence Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sai_20241104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sai_20241104_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "022ba541b3f8d96d7589f7ffbf4c1c4c1e7ef6836543a15e6776883e55ccc736",
-      "titulo": "Substrate Artificial Intelligence: Resultados 6m 2024",
-      "empresa": "Substrate Artificial Intelligence",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "04/11/2024",
-      "fecha_iso": "2024-11-04T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/sai_20241104_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Substrate Artificial Intelligence</p><p><strong>Fecha:</strong> 04/11/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sai_20241104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sai_20241104_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "dded2f132e37bd0794ca66efd12fa67b9f683e4966f487c0cda5f8856b6187ed",
-      "titulo": "Substrate Artificial Intelligence: Laboratorio Reig Jofre Resultados 9m 2024",
-      "empresa": "Substrate Artificial Intelligence",
-      "asunto": "Laboratorio Reig Jofre Resultados 9m 2024",
-      "fecha": "31/10/2024",
-      "fecha_iso": "2024-10-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Substrate Artificial Intelligence</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Laboratorio Reig Jofre Resultados 9m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "ba17917bf7354935d859edd1011f1f97feca445fdeda689359ac4e78c4b02977",
-      "titulo": "Laboratorio Reig Jofre: Resultados 9m 2024",
-      "empresa": "Laboratorio Reig Jofre",
-      "asunto": "Resultados 9m 2024",
-      "fecha": "31/10/2024",
-      "fecha_iso": "2024-10-31T09:00:00+00:00",
-      "paginas": "11",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 31/10/2024</p><p><strong>Informe:</strong> Resultados 9m 2024</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20241031_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
