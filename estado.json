@@ -1,17 +1,61 @@
 {
-  "actualizado": "2026-11-19T08:48:55.454204+00:00",
+  "actualizado": "2026-11-19T18:13:25.553540+00:00",
   "cantidad": 500,
   "informes": [
     {
-      "id": "624f7a1e37305cfa2d8650aba825029a4532a5e03f741aca7d9e65a4ec69c61d",
-      "titulo": "Lighthouse: Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones",
+      "id": "5487251a4db4157ccd2a50fafc6b0e9bc0515773d7015f1cedf0aa862d17f0a7",
+      "titulo": "Lighthouse: Adolfo Domínguez Resultados 6m 2026",
       "empresa": "Lighthouse",
+      "asunto": "Adolfo Domínguez Resultados 6m 2026",
+      "fecha": "19/11/2026",
+      "fecha_iso": "2026-11-19T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/adz_20261119_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 19/11/2026</p><p><strong>Informe:</strong> Adolfo Domínguez Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20261119_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20261119_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "64199111378ba224515bdc5fcf0d6a1f4766c71148e13da5b28717287794ec77",
+      "titulo": "Adolfo Domínguez: Resultados 6m 2026",
+      "empresa": "Adolfo Domínguez",
+      "asunto": "Resultados 6m 2026",
+      "fecha": "19/11/2026",
+      "fecha_iso": "2026-11-19T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/adz_20261119_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Adolfo Domínguez</p><p><strong>Fecha:</strong> 19/11/2026</p><p><strong>Informe:</strong> Resultados 6m 2026</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20261119_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/adz_20261119_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "7825b40104eae2bd36bf1b10ddbc5f850b194080fec3303a26fbe61aab9d717e",
+      "titulo": "Adolfo Domínguez: Squirrel Media Resultados 9m 2026 – Bajamos estimaciones",
+      "empresa": "Adolfo Domínguez",
+      "asunto": "Squirrel Media Resultados 9m 2026 – Bajamos estimaciones",
+      "fecha": "19/11/2026",
+      "fecha_iso": "2026-11-19T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/sqrl_20261119_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Adolfo Domínguez</p><p><strong>Fecha:</strong> 19/11/2026</p><p><strong>Informe:</strong> Squirrel Media Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sqrl_20261119_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sqrl_20261119_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "1f5e13e699fcc93b4a0d7b7506f6184090df2801ed66aa0034d8e5c97840b3a5",
+      "titulo": "Squirrel Media: Resultados 9m 2026 – Bajamos estimaciones",
+      "empresa": "Squirrel Media",
+      "asunto": "Resultados 9m 2026 – Bajamos estimaciones",
+      "fecha": "19/11/2026",
+      "fecha_iso": "2026-11-19T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/sqrl_20261119_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Squirrel Media</p><p><strong>Fecha:</strong> 19/11/2026</p><p><strong>Informe:</strong> Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sqrl_20261119_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sqrl_20261119_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "b9e221fd7fc605619336271066455628284e6f90cbfdc5619b29ea6b831c946c",
+      "titulo": "Squirrel Media: Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones",
+      "empresa": "Squirrel Media",
       "asunto": "Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones",
       "fecha": "17/11/2026",
       "fecha_iso": "2026-11-17T09:00:00+00:00",
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 17/11/2026</p><p><strong>Informe:</strong> Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_2.pdf\">PDF en inglés</a></p>"
+      "descripcion": "<p><strong>Empresa:</strong> Squirrel Media</p><p><strong>Fecha:</strong> 17/11/2026</p><p><strong>Informe:</strong> Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "7164bddd99ad1467663037eb98d30e6416c8d14e3d91b57677be343331cdde16",
@@ -23,6 +67,17 @@
       "paginas": "11",
       "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Laboratorio Reig Jofre</p><p><strong>Fecha:</strong> 17/11/2026</p><p><strong>Informe:</strong> Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_2.pdf\">PDF en inglés</a></p>"
+    },
+    {
+      "id": "624f7a1e37305cfa2d8650aba825029a4532a5e03f741aca7d9e65a4ec69c61d",
+      "titulo": "Lighthouse: Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones",
+      "empresa": "Lighthouse",
+      "asunto": "Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones",
+      "fecha": "17/11/2026",
+      "fecha_iso": "2026-11-17T09:00:00+00:00",
+      "paginas": "11",
+      "url": "https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf",
+      "descripcion": "<p><strong>Empresa:</strong> Lighthouse</p><p><strong>Fecha:</strong> 17/11/2026</p><p><strong>Informe:</strong> Laboratorio Reig Jofre Resultados 9m 2026 – Bajamos estimaciones</p><p><strong>Número de páginas:</strong> 11</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/rjf_20261117_2.pdf\">PDF en inglés</a></p>"
     },
     {
       "id": "5369c6a1143463952101c1367988d5df1a7df901d9b20c07e3da4f962f83991a",
@@ -5446,61 +5501,6 @@
       "paginas": "6",
       "url": "https://institutodeanalistas.com/wp-content/uploads/clr_20241105_1.pdf",
       "descripcion": "<p><strong>Empresa:</strong> Clerhp Estructuras</p><p><strong>Fecha:</strong> 05/11/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20241105_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/clr_20241105_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "343952157b51e6393b8e2b43b5472bea15e867c5b18614e610af352a79c43edf",
-      "titulo": "Clerhp Estructuras: Vanadi Coffee Resultados 6m 2024",
-      "empresa": "Clerhp Estructuras",
-      "asunto": "Vanadi Coffee Resultados 6m 2024",
-      "fecha": "04/11/2024",
-      "fecha_iso": "2024-11-04T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/vana_20241104_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Clerhp Estructuras</p><p><strong>Fecha:</strong> 04/11/2024</p><p><strong>Informe:</strong> Vanadi Coffee Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20241104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20241104_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "ab1c8e8b849973132f2468e27f11e7c2311475c93fa7cd4597a64be20c26c63f",
-      "titulo": "Vanadi Coffee: Resultados 6m 2024",
-      "empresa": "Vanadi Coffee",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "04/11/2024",
-      "fecha_iso": "2024-11-04T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/vana_20241104_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Vanadi Coffee</p><p><strong>Fecha:</strong> 04/11/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20241104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/vana_20241104_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "8083fc69a9012feb038e2895d7422a8bf4d6a9e4aebace2f82e6ee550894710e",
-      "titulo": "Vanadi Coffee: Pangaea Oncology Resultados 6m 2024",
-      "empresa": "Vanadi Coffee",
-      "asunto": "Pangaea Oncology Resultados 6m 2024",
-      "fecha": "04/11/2024",
-      "fecha_iso": "2024-11-04T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20241104_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Vanadi Coffee</p><p><strong>Fecha:</strong> 04/11/2024</p><p><strong>Informe:</strong> Pangaea Oncology Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20241104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20241104_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "9c5630560c3684296531641940776a72b7e7bbcd7a4d3b474c823ea6f2aac74f",
-      "titulo": "Pangaea Oncology: Resultados 6m 2024",
-      "empresa": "Pangaea Oncology",
-      "asunto": "Resultados 6m 2024",
-      "fecha": "04/11/2024",
-      "fecha_iso": "2024-11-04T09:00:00+00:00",
-      "paginas": "12",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/pang_20241104_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Pangaea Oncology</p><p><strong>Fecha:</strong> 04/11/2024</p><p><strong>Informe:</strong> Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 12</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20241104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/pang_20241104_2.pdf\">PDF en inglés</a></p>"
-    },
-    {
-      "id": "4df926276ba36e0d5fe4017fd437420a927c4abecd707bbc58bd01a358a0edd2",
-      "titulo": "Pangaea Oncology: Substrate Artificial Intelligence Resultados 6m 2024",
-      "empresa": "Pangaea Oncology",
-      "asunto": "Substrate Artificial Intelligence Resultados 6m 2024",
-      "fecha": "04/11/2024",
-      "fecha_iso": "2024-11-04T09:00:00+00:00",
-      "paginas": "6",
-      "url": "https://institutodeanalistas.com/wp-content/uploads/sai_20241104_1.pdf",
-      "descripcion": "<p><strong>Empresa:</strong> Pangaea Oncology</p><p><strong>Fecha:</strong> 04/11/2024</p><p><strong>Informe:</strong> Substrate Artificial Intelligence Resultados 6m 2024</p><p><strong>Número de páginas:</strong> 6</p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sai_20241104_1.pdf\">PDF en español</a></p><p><a href=\"https://institutodeanalistas.com/wp-content/uploads/sai_20241104_2.pdf\">PDF en inglés</a></p>"
     }
   ]
 }
